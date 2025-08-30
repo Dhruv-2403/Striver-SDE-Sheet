@@ -8,7 +8,7 @@ It is aimed at strengthening my understanding of Data Structures and Algorithms 
 ## 📌 About
 
 The Striver SDE Sheet is a collection of commonly asked coding problems in interviews.  
-This repo includes my solutions to the problems along with different approaches, and time/space complexity for each problem.
+This repo includes my solutions to the problems along with time/space complexity for each problem.
 
 
 
